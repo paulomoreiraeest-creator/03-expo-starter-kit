@@ -6,10 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "barsalesiano",
-    "splash": {
-      "image": "./assets/images/splash.png",
-      "backgroundColor": "#FDE047"
-    },
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
